@@ -1,0 +1,17 @@
+…or create a new repository on the command line
+
+git init
+git add .
+git commit -m "first commit"
+(HEMEN SONRASI ALTTAKÝ ÝÞLEMLER YAPILIR)
+
+…or push an existing repository from the command line
+git remote add origin -----(deðiþken yer)https://github.com/hikmettt/AsanaTaskCompleteDLL.git------
+git push -u origin master
+--------------------------------------------------------------------------------
+
+
+(ÝÞLEMLER BÝTTÝ SONRASI GÜNCELLEME ÝÇÝN)
+git add .
+git commit -m "second commit"
+git push -u origin master
